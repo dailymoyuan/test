@@ -9,7 +9,7 @@ import test2 from test2
 describe("Home", () => {
   let component;
   let container;
-
+  console.log("test from test branch")
   beforeEach(() => {
     container = document.createElement("div");
   });
