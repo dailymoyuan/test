@@ -3,8 +3,7 @@ import ReactDOM from "react-dom";
 import Home from "client/components/home";
 import {createStore} from "redux";
 import rootReducer from "../../../client/reducers";
-import test1 from test1
-import test2 from test2
+import test from test1
 
 describe("Home", () => {
   let component;
